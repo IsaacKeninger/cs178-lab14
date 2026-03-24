@@ -1,4 +1,4 @@
-# CS 178 — Lab 14 Starter Repo
+# CS 178 — Lab 14 Starter Repository
 # Isaac Keninger
 
 This is the starter repository for **Lab 14: Flask Part II**.
